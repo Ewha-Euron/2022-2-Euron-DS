@@ -2,7 +2,7 @@
 
 ## 임원진   
 - **[최하경](https://github.com/FleurHwai)**
-- **[임나영]()**
+- **[임나영](https://github.com/limnayoung99)**
 
 ## Curriculum
 
